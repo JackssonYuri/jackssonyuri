@@ -19,7 +19,16 @@ Sou apaixonado por tecnologia e atualmente trabalho com análise de dados, machi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackssonYuri&layout=compact&theme=dark)
 
 ## 📌 Featured Projects
-🔹 [Projeto 1](https://github.com/JackssonYuri/projeto1) - Descrição breve.
+🔹 [Projeto 1](https://github.com/JackssonYuri/projeto1) - Esse projeto foi parte de um desafio técnico para um estágio, onde utilizei dados de 802 Pokémon para responder perguntas como:
+📌 Quais são os tipos mais fortes e mais fracos?
+📌 Como características como altura e peso influenciam os atributos de batalha?
+📌 É possível prever quais Pokémon são lendários com base em seus atributos?
+💡 O que há de especial no meu dashboard?
+Dividi minha análise em três páginas interativas, permitindo explorar diferentes aspectos dos Pokémon:
+1️⃣ Visão Geral – Um resumo com estatísticas gerais, distribuição de tipos e comparações entre atributos.
+2️⃣ Análise de Tipos – Um comparativo entre os diferentes tipos de Pokémon, avaliando resistência, fraquezas e estatísticas médias.
+3️⃣ Exploração Individual – Um diferencial do projeto: um filtro interativo que permite selecionar um Pokémon específico e visualizar todos os seus detalhes em tempo real!
+Além disso, implementei filtros dinâmicos para refinar a busca por geração, tipo, atributos e muito mais.
 🔹 [Projeto 2](https://github.com/JackssonYuri/projeto2) - Descrição breve.
 🔹 [Projeto 3](https://github.com/JackssonYuri/projeto3) - Descrição breve.
 
