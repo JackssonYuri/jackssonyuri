@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia e atualmente trabalho com análise de dados, machi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackssonYuri&layout=compact&theme=dark)
 
 ## 📌 Featured Projects
-🔹 [Projeto 1](https://github.com/JackssonYuri/projeto1) - Esse projeto foi parte de um desafio técnico para um estágio, onde utilizei dados de 802 Pokémon para responder perguntas como:
+🔹 [Projeto 1](https://github.com/JackssonYuri/Data_Pokemon) - Esse projeto utilizei dados de 802 Pokémons para responder perguntas como:
 📌 Quais são os tipos mais fortes e mais fracos?
 📌 Como características como altura e peso influenciam os atributos de batalha?
 📌 É possível prever quais Pokémon são lendários com base em seus atributos?
