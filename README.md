@@ -29,8 +29,6 @@ Dividi minha análise em três páginas interativas, permitindo explorar diferen
 2️⃣ Análise de Tipos – Um comparativo entre os diferentes tipos de Pokémon, avaliando resistência, fraquezas e estatísticas médias.
 3️⃣ Exploração Individual – Um diferencial do projeto: um filtro interativo que permite selecionar um Pokémon específico e visualizar todos os seus detalhes em tempo real!
 Além disso, implementei filtros dinâmicos para refinar a busca por geração, tipo, atributos e muito mais.
-🔹 [Projeto 2](https://github.com/JackssonYuri/projeto2) - Descrição breve.
-🔹 [Projeto 3](https://github.com/JackssonYuri/projeto3) - Descrição breve.
 
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackssonyuri)
