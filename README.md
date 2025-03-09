@@ -1,42 +1,32 @@
-<h1 align="center">Hi! My name is Jacksson.</h1>
+# Hi! I'm Jacksson Yuri 👋
 
-<div align="center">
-  <a href="https://github.com/jackssonyuri">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jackssonyuri&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackssonyuri&layout=compact&langs_count=7&theme=react"/>
-    <br>
-    <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-  </a>
-</div>
+![Banner](https://your-image-url.com)  
 
-<br>
+🎓 **Formado em Ciência da Computação**
+💻 **Entusiasta em Ciência de Dados e Inteligência Artificial**
+🎥 **Fã de animes e filmes de terror/suspense**
 
-<div align="center"> 
-  <div style="display: inline_block">
-    <br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  </div>
-</div>
+## 🚀 About Me
+Sou apaixonado por tecnologia e atualmente trabalho com análise de dados, machine learning e visão computacional. Gosto de explorar novas tecnologias e contribuir com projetos de código aberto.
 
-<br>
+## 🔧 Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jackssonyuri/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/jack.yuri/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=jackyuri6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github.com/jackssonyuri/jackssonyuri/blob/output/github-contribution-grid-snake.svg">
-</div>
+![Jacksson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackssonYuri&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackssonYuri&layout=compact&theme=dark)
+
+## 📌 Featured Projects
+🔹 [Projeto 1](https://github.com/JackssonYuri/projeto1) - Descrição breve.
+🔹 [Projeto 2](https://github.com/JackssonYuri/projeto2) - Descrição breve.
+🔹 [Projeto 3](https://github.com/JackssonYuri/projeto3) - Descrição breve.
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
